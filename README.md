@@ -34,27 +34,17 @@ Explored the impact of demographics on order values.
 4. Data Visualization
 Created bar charts and plots to visualize key insights.
 Showcased trends in popular dishes and demographic behavior.
+
 Technologies Used
 Programming Languages: Python
 Libraries: Pandas, NumPy, Matplotlib, Seaborn
-Data Visualization Tools: Power BI, Matplotlib
-Version Control: Git, GitHub
+Data Visualization Tools: Matplotlib
+Version Control: GitHub
+
 Key Insights
 The top 10 popular dishes accounted for 40% of total orders.
 Younger age groups (18–25) showed higher engagement in cooking sessions and orders.
 Real-time insights from cooking sessions increased order values by 20%.
-
-Repository Structure
-|-- data/  
-|   |-- UserDetails.xlsx  
-|   |-- CookingSessions.xlsx  
-|   |-- OrderDetails.xlsx  
-|-- scripts/  
-|   |-- data_analysis.py  
-|-- visualizations/  
-|   |-- popular_dishes.png  
-|   |-- demographic_analysis.png  
-|-- final_data.csv  
  
 Business Recommendations
 Invest in promoting the top 10 dishes to drive more orders.
